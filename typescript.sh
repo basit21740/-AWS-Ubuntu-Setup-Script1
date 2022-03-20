@@ -9,3 +9,6 @@ npx tsc --init --rootDir src --outDir lib --esModuleInterop --resolveJsonModule 
 echo loading prompt sync
 npm install prompt-sync
 npm install @types/prompt-sync
+mkdir src
+cd src
+echo Done
