@@ -12,3 +12,6 @@ npm install @types/prompt-sync
 mkdir src
 cd src
 echo Done
+
+npm install --save-dev eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
+
